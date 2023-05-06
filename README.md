@@ -29,9 +29,26 @@ This is a simple Admission Portal in C programming language that allows students
 5. Your application will be saved to a file for future reference.
 6. To view the list of all registered students, select the option from the main menu.
 
-## Contributing
+## Video Tutorial
+We have created a video tutorial that shows how to use the Admission Portal to register for admission. The tutorial demonstrates how to run the program, enter personal and academic information, and choose a program or course to apply for. You can watch the [VideoTutorial](https://drive.google.com/file/d/1-tyYa87CjwOEWughHDkJcVU_c6lk1IoA/view?usp=sharing). We hope that this video will help you understand how to use the Admission Portal and register for admission smoothly.
 
-Contributions to the Admission Portal are welcome. If you find a bug or want to suggest an enhancement, please create a pull request or open an issue in this repository. 
+## Contributors
+We would like to acknowledge the following contributors for their valuable contributions to the Admission Portal:
+
+- Rudra Parmar ([Github](https://github.com/rudraparmar76), [LinkedIn](https://www.linkedin.com/in/rudra-parmar-089125245/))
+- Daksh Gopani ([Github](https://github.com/dakshgopani), [LinkedIn](https://www.linkedin.com/in/daksh-gopani-a13993251/))
+- Vinit Shah ([Github](https://github.com/vinitrshah03), [LinkedIn](https://www.linkedin.com/in/vinit-shah-2aba49256/))
+<br>
+Thank you all for your contributions to this project! We appreciate your hard work and dedication.
+
+## Contributing
+We welcome contributions from anyone who is interested in improving the Admission Portal!
+
+We are particularly interested in improving the usability and aesthetics of the program. If you have experience in user interface design, we would love to hear your suggestions on how we can make the Admission Portal more user-friendly.
+
+We also welcome contributions in the form of bug reports, feature requests, and code improvements. If you find a bug or have an idea for a new feature, please open an issue on our [Admission Portal]() so that we can discuss it.
+
+Thank you for your interest in contributing to the Admission Portal! We look forward to working with you to make it even better.
 
 ## License
 
