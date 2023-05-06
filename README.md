@@ -30,7 +30,7 @@ This is a simple Admission Portal in C programming language that allows students
 6. To view the list of all registered students, select the option from the main menu.
 
 ## Video Tutorial
-We have created a video tutorial that shows how to use the Admission Portal to register for admission. The tutorial demonstrates how to run the program, enter personal and academic information, and choose a program or course to apply for. You can watch the [VideoTutorial](https://drive.google.com/file/d/1-tyYa87CjwOEWughHDkJcVU_c6lk1IoA/view?usp=sharing). We hope that this video will help you understand how to use the Admission Portal and register for admission smoothly.
+We have created a video tutorial that shows how to use the Admission Portal to register for admission. The tutorial demonstrates how to run the program, enter personal and academic information, and choose a program or course to apply for. You can watch the [VideoTutorial](https://drive.google.com/file/d/1QoYCYQPyLXPTEfIrq_NeeqiCsQ2o_nqI/view?usp=sharing). We hope that this video will help you understand how to use the Admission Portal and register for admission smoothly.
 
 ## Contributors
 We would like to acknowledge the following contributors for their valuable contributions to the Admission Portal:
