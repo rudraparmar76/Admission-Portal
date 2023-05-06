@@ -37,7 +37,7 @@ We would like to acknowledge the following contributors for their valuable contr
 
 - Rudra Parmar ([Github](https://github.com/rudraparmar76), [LinkedIn](https://www.linkedin.com/in/rudra-parmar-089125245/))
 - Daksh Gopani ([Github](https://github.com/dakshgopani), [LinkedIn](https://www.linkedin.com/in/daksh-gopani-a13993251/))
-- Vinit Shah ([Github](https://github.com/vinitrshah03), [LinkedIn](https://www.linkedin.com/in/vinit-shah-2aba49256/))
+- Vinit Shah ([Github](https://github.com/Vinit062006), [LinkedIn](https://www.linkedin.com/in/vinit-shah-2aba49256/))
 
 Thank you all for your contributions to this project! We appreciate your hard work and dedication.
 
