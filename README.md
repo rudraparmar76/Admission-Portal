@@ -32,7 +32,7 @@ This is a simple Admission Portal in C programming language that allows students
 ## Video Tutorial
 We have created a video tutorial that shows how to use the Admission Portal to register for admission. The tutorial demonstrates how to run the program, enter personal and academic information, and choose a program or course to apply for. You can watch the [VideoTutorial](https://drive.google.com/file/d/1QoYCYQPyLXPTEfIrq_NeeqiCsQ2o_nqI/view?usp=sharing). We hope that this video will help you understand how to use the Admission Portal and register for admission smoothly.
 
-## Contributors
+## Acknowledgments
 We would like to acknowledge the following contributors for their valuable contributions to the Admission Portal:
 
 - Rudra Parmar ([Github](https://github.com/rudraparmar76), [LinkedIn](https://www.linkedin.com/in/rudra-parmar-089125245/))
@@ -56,6 +56,11 @@ We are a group of students currently pursuing a Diploma in Computer Science and 
 With the help of our instructors and online resources, we were able to develop the Admission Portal program that you see in this repository. While we know that there is still room for improvement, we are proud of what we have achieved so far and are eager to continue learning and growing as developers.
 
 We hope that this project will serve as a testament to what can be accomplished with hard work, determination, and a willingness to learn.
+
+## Show Your Support
+If you find Admission Portal helpful, please consider starring the repository to show your support. This will help us reach a wider audience and improve the project over time.
+
+If you would like to contribute to the ongoing development and improvement of Admission Portal, please fork the repository and submit a pull request. We welcome all contributions, no matter how big or small, and appreciate your help in making this project better. Thank you for your support!
 
 ## License
 
