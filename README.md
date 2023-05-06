@@ -38,7 +38,7 @@ We would like to acknowledge the following contributors for their valuable contr
 - Rudra Parmar ([Github](https://github.com/rudraparmar76), [LinkedIn](https://www.linkedin.com/in/rudra-parmar-089125245/))
 - Daksh Gopani ([Github](https://github.com/dakshgopani), [LinkedIn](https://www.linkedin.com/in/daksh-gopani-a13993251/))
 - Vinit Shah ([Github](https://github.com/vinitrshah03), [LinkedIn](https://www.linkedin.com/in/vinit-shah-2aba49256/))
-<br>
+
 Thank you all for your contributions to this project! We appreciate your hard work and dedication.
 
 ## Contributing
@@ -46,9 +46,16 @@ We welcome contributions from anyone who is interested in improving the Admissio
 
 We are particularly interested in improving the usability and aesthetics of the program. If you have experience in user interface design, we would love to hear your suggestions on how we can make the Admission Portal more user-friendly.
 
-We also welcome contributions in the form of bug reports, feature requests, and code improvements. If you find a bug or have an idea for a new feature, please open an issue on our [Admission Portal]() so that we can discuss it.
+We also welcome contributions in the form of bug reports, feature requests, and code improvements. If you find a bug or have an idea for a new feature, please open an issue on our [Admission Portal](https://github.com/rudraparmar76/Admission-Portal) so that we can discuss it.
 
 Thank you for your interest in contributing to the Admission Portal! We look forward to working with you to make it even better.
+
+## About Us
+We are a group of students currently pursuing a Diploma in Computer Science and Engineering (CSE) at [SVKM's Shri Bhagubhai Mafatlal Polytechnic](https://sbmp.ac.in/). Despite being in our second semester of the program, we wanted to challenge ourselves and apply the basic knowledge we had acquired in C programming to build a useful and practical program.
+
+With the help of our instructors and online resources, we were able to develop the Admission Portal program that you see in this repository. While we know that there is still room for improvement, we are proud of what we have achieved so far and are eager to continue learning and growing as developers.
+
+We hope that this project will serve as a testament to what can be accomplished with hard work, determination, and a willingness to learn.
 
 ## License
 
